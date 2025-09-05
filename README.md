@@ -1,7 +1,7 @@
 # 👋 Xin chào, mình là Bảo Ngọc!
 
-🎓 Sinh viên năm cuối, ĐH Bách khoa HCM
-💻 Quan tâm đến: Web Development, AI, Data Science  
+🎓 Sinh viên năm cuối, ĐH Bách khoa HCM  
+💻 Quan tâm đến: Frontend development   
 🌱 Hiện tại đang học: ReactJS, Node.js, Java, Python  
 📫 Liên hệ: [Email](mailto:ngoc.olivia2212257@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ng%E1%BB%8Dc-hu%E1%BB%B3nh-b%E1%BA%A3o-420b92252/)
 
