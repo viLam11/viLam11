@@ -8,29 +8,27 @@
 ---
 
 ## 🚀 Kỹ năng
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=viLam11&show_icons=true&theme=radical)   [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viLam11&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viLam11&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viLam11&show_icons=true&theme=radical" height=120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viLam11&layout=compact&theme=radical" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viLam11&theme=radical" height="120"/>
+
+</div>
 
 ---
-
-## 🌟 Dự án nổi bật
-
-- [📂 Tên dự án 1](https://github.com/viLam11/ten-du-an-1): Mô tả ngắn gọn dự án  
-- [📂 Tên dự án 2](https://github.com/viLam11/ten-du-an-2): Mô tả ngắn gọn dự án  
-
----
-
 ✨ *Cảm ơn vì đã ghé thăm profile của mình!*
 
