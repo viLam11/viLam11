@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Bảo Ngọc!
+# 👋 Xin chào, I'm Bảo Ngọc!
 
 🎓 Sinh viên năm cuối, ĐH Bách khoa HCM  
 💻 Quan tâm đến: Frontend development   
