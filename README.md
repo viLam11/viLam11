@@ -1,8 +1,8 @@
 # 👋 Xin chào, I'm Bảo Ngọc!
 
-🎓 Sinh viên năm cuối, ĐH Bách khoa HCM  
-💻 Quan tâm đến: Frontend development   
-🌱 Hiện tại đang học: ReactJS, Node.js, Java, Python  
+🎓 I'm a final undergraduate at Hồ Chí Minh City Universtiy of Technology - Viet Nam National Universtiy (HCMUT-VNU)
+💻 Interest: software development   
+🌱 In learning: ReactJS, Java  
 📫 Liên hệ: [Email](mailto:ngoc.olivia2212257@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ng%E1%BB%8Dc-hu%E1%BB%B3nh-b%E1%BA%A3o-420b92252/)
 
 ---
@@ -26,9 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=viLam11&show_icons=true&theme=radical" height=120"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viLam11&layout=compact&theme=radical" height="120"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viLam11&theme=radical" height="120"/>
-
 </div>
 
 ---
-✨ *Cảm ơn vì đã ghé thăm profile của mình!*
+✨ *Thanks for visiting my profile*
 
