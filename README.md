@@ -23,9 +23,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viLam11&show_icons=true&theme=radical" height=120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viLam11&layout=compact&theme=radical" height="120"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viLam11&theme=radical" height="120"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viLam11&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viLam11&layout=compact&theme=radical" height="150" />
 </div>
 
 ---
